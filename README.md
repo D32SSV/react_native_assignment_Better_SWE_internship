@@ -2,6 +2,8 @@
 
 ## To Get started
 
+### Video of Working App Included in the repo in video folder in the root dir
+
 1. Install dependencies
 
    ```bash
